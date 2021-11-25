@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Pravin
+Build-Jdk: 11.0.11
+Implementation-Title: EbsBill
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg
+Implementation-URL: https://spring.io/projects/spring-boot/EbsBill
+Created-By: Maven Integration for Eclipse
+
